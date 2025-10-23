@@ -1,4 +1,4 @@
-<img src="https://github.com/Anne-marieTeteDansLesNuages/Anne-marieTeteDansLesNuages/blob/main/fall-laptop.jpg" width="250" align="right" alt="Fall laptop scene">
+<img src="https://raw.githubusercontent.com/Anne-marieTeteDansLesNuages/Anne-marieTeteDansLesNuages/main/fall-laptop.jpg" width="250" align="right" alt="Fall laptop scene">
 
 # 👋 Hi, I'm Anne-marie P
 
