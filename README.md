@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Anne-marie P
 
 🌥️ TêteDansLesNuages | Cloud Support & Product Ops  
-🎓 AWS Cloud Institute – blablop 
+🎓 AWS Cloud Institute – blablop  
 🧠 Certified: AWS Cloud Practitioner & AI Practitioner  
 🛠️ blablop | blablop | blablop
 
