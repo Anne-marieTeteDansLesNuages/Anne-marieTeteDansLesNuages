@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Anne-marieTeteDansLesNuages/Anne-marieTeteDansLesNuages/main/MesCheveuxRouge.jpg" width="250" align="right" alt="mon visage">
+
 
 # 👋 Hi, I'm Anne-marie P
 
@@ -19,10 +19,10 @@
 ### 🧠 Certifications
 
 <a href="https://www.credly.com/badges/e0abbaab-115d-45cd-886f-ce40a6ce6a60/public_url">
-  <img src="https://images.credly.com/size/110x110/images/2e5f4b7d-3b8d-4f0c-9e1a-5a8d8f6f9f3e/AWS-CloudPractitioner.png" width="80" alt="AWS Cloud Practitioner">
+  <img src="https://raw.githubusercontent.com/Anne-marieTeteDansLesNuages/Anne-marieTeteDansLesNuages/main/aws-certified-cloud-practitioner.png" width="80" alt="AWS Certified AI Practitioner Badge">
 </a>
 <a href=“https://www.credly.com/badges/e0696778-1060-49de-bdde-e2de01bece9b/public_url”>
-  <img src="https://images.credly.com/size/110x110/images/1e3b4f7d-3c8d-4f0c-9e1a-5a8d8f6f9f3e/AWS-AI.png" width="80" alt="AWS AI Practitioner">
+  <img src="https://raw.githubusercontent.com/Anne-marieTeteDansLesNuages/Anne-marieTeteDansLesNuages/main/aws-certified-ai-practitioner.png" width="80" alt="AWS Certified AI Practitioner Badge">
 </a>
 
 ---
