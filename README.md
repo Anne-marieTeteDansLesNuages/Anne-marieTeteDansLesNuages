@@ -10,9 +10,9 @@
 ---
 
 ### 🚧 Currently Building
-- AWS deployment checklists & starter templates  
-- Budget-friendly S3 + CloudFront setups  
-- Flashcards for cloud project structure
+- AWS deployment blipblip  
+- Budget-friendly S3 + blopblop 
+- Flashcards on Anki
 
 ---
 
@@ -32,7 +32,7 @@
 ---
 
 
-📫 Connect: [GitHub Pages](https://anne-marietetedanslesnuages.github.io) | [LinkedIn](https://www.linkedin.com/in/marieAnneMF)
+📫 Connect: maybe
 
 
 
