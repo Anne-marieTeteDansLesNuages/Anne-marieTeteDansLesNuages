@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Anne-marie P
+
+🌥️ TêteDansLesNuages | Cloud Support & Ops Enthusiast  
+🎓 AWS Cloud Institute – Developer Associate (final quarter)  
+🧠 Certified: AWS Cloud Practitioner & AI Practitioner  
+🛠️ YAML lover | Linux browser VM fan | Security-first mindset
+
+Currently building:
+- AWS deployment checklists & starter templates  
+- Budget-friendly S3 + CloudFront setups  
+- Flashcards for cloud project structure
+
+📫 Connect: [GitHub Pages](https://anne-marietetedanslesnuages.github.io) | [LinkedIn](https://www.linkedin.com/in/marieAnneMF)
+
 -->
