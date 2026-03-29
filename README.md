@@ -2,17 +2,17 @@
 
 # 👋 Hi, I'm Anne-marie P
 
-🌥️ TêteDansLesNuages | Cloud Support & Product Ops  
-🎓 AWS Cloud Institute – blablop  
+🌥️ TêteDansLesNuages | Cloud Support & Product Ops, aspiring Cloud Engineer 
+🎓 AWS Cloud Institute – Graduating Apr 2026
 🧠 Certified: AWS Cloud Practitioner & AI Practitioner  
-🛠️ blablop | blablop | blablop
+🛠️ Interested in AI/ML integrations | Focus on SMB with no Cloud presence | Passionate about Cloud Adoption
 
 ---
 
-### 🚧 Currently Building
-- AWS deployment blipblip  
-- Budget-friendly S3 + blopblop 
-- Flashcards on Anki
+### 🚧 Currently Building and Learning
+-  Cloud-based applications to showcase 
+-  Work in progress: AWS Dev Associate cert 
+-  Work in progress: Linux Essentials cert
 
 ---
 
@@ -32,7 +32,7 @@
 ---
 
 
-📫 Connect: maybe
+📫 Connect: coming up soon
 
 
 
