@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Anne-marie P
 
-🌥️ TêteDansLesNuages | Cloud Support & Product Ops, aspiring Cloud Engineer 
-🎓 AWS Cloud Institute – Graduating Apr 2026
+🌥️ TêteDansLesNuages | Aspiring Cloud Engineer  
+🎓 AWS Cloud Institute – Graduating Apr 2026  
 🧠 Certified: AWS Cloud Practitioner & AI Practitioner  
 🛠️ Interested in AI/ML integrations | Focus on SMB with no Cloud presence | Passionate about Cloud Adoption
 
