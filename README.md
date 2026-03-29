@@ -31,6 +31,11 @@
 
 ---
 
+### Projects  
+- Portfolio: work in progress
+- Pet Shelter: 
+- Salon website:
+
 
 📫 Connect: coming up soon
 
