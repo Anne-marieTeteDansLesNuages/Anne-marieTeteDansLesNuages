@@ -28,6 +28,11 @@
     <img src="https://raw.githubusercontent.com/Anne-marieTeteDansLesNuages/Anne-marieTeteDansLesNuages/main/aws-certified-ai-practitioner.png" width="80" alt="AWS Certified AI Practitioner Badge">
   </a>
 </span>
+<span style="display:inline-block">
+  <a href=“https://www.credly.com/badges/e0696778-1060-49de-bdde-e2de01bece9b/public_url”>
+    <img src="https://raw.githubusercontent.com/Anne-marieTeteDansLesNuages/Anne-marieTeteDansLesNuages/main/aws-cloud-institute-cloud-application-developer.png" width="80" alt="AWS Cloud Institure Cloud Application Developer Badge">
+  </a>
+</span>
 
 ---
 
