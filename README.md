@@ -33,8 +33,8 @@
 
 ### Projects  
 - Portfolio: work in progress
-- Pet Shelter: 
-- Salon website:
+- Pet Shelter: https://main.d2rqqbwuygfulb.amplifyapp.com/
+- Salon website: https://jv4bpkktdx.us-west-2.awsapprunner.com/
 
 
 📫 Connect: coming up soon
