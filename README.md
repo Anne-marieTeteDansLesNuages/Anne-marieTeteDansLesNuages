@@ -11,8 +11,7 @@
 
 ### 🚧 Currently Building and Learning
 -  Cloud-based applications to showcase 
--  Work in progress: AWS Dev Associate cert 
--  Work in progress: Linux Essentials cert
+-  Work in progress: AWS Dev Associate cert, Linux Essentials cert
 
 ---
 
