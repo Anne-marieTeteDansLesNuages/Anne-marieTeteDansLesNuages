@@ -37,11 +37,13 @@
 
 ### Projects  
 - Portfolio: work in progress
-- Pet Shelter: https://main.d2rqqbwuygfulb.amplifyapp.com/
-- Salon website: https://jv4bpkktdx.us-west-2.awsapprunner.com/
+- Pet Shelter: https://main.d2rqqbwuygfulb.amplifyapp.com/  
+🐾 full-stack serverless React web application that allows users to browse adoptable pets and submit adoption requests. 
+- Salon website: https://jv4bpkktdx.us-west-2.awsapprunner.com/  
+✂️ full-stack serverless Django web app for scheduling hair salon appointments  
 
 
-📫 Connect: coming up soon
+📫 Connect: https://www.linkedin.com/in/annemarieplanken/
 
 
 
