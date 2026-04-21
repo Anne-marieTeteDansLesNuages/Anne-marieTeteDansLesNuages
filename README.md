@@ -36,7 +36,7 @@
 ---
 
 ### Projects  
-- Portfolio: work in progress
+- Portfolio: https://anne-marietetedanslesnuages.github.io/portfolio-workspace/
 - Pet Shelter: https://main.d2rqqbwuygfulb.amplifyapp.com/  
 🐾 full-stack serverless React web application that allows users to browse adoptable pets and submit adoption requests. 
 - Salon website: https://jv4bpkktdx.us-west-2.awsapprunner.com/  
