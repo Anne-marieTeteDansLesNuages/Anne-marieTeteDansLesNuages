@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Anne-marie P
 
 🌥️ TêteDansLesNuages | Aspiring Cloud Engineer  
-🎓 AWS Cloud Institute – Cloud Application Developer program graduate, Apr. 2026   
+🎓 AWS Cloud Institute – Cloud Application Developer program graduate, Mar. 2026   
 🧠 Certified: AWS Cloud Practitioner & AI Practitioner  
 🛠️ Interested in AI/ML integrations | Focus on SMB with no Cloud presence | Passionate about Cloud Adoption
 
@@ -11,7 +11,7 @@
 
 ### 🚧 Currently Building and Learning
 -  Cloud-based applications to showcase 
--  Work in progress: AWS Dev Associate cert, Linux Essentials cert
+-  Work in progress: AWS Dev Associate certification
 
 ---
 
