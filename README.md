@@ -2,6 +2,7 @@
 
 # 👋 Hi, I'm Anne-marie P
 
+
 🌥️ TêteDansLesNuages | Aspiring Cloud Engineer  
 🎓 AWS Cloud Institute – Cloud Application Developer program graduate, Mar. 2026   
 🧠 Certified: AWS Cloud Practitioner & AI Practitioner  
@@ -43,7 +44,12 @@
 ✂️ full-stack serverless Django web app for scheduling hair salon appointments  
 
 
-📫 Connect: https://www.linkedin.com/in/annemarieplanken/
+📫 Connect: https://www.linkedin.com/in/annemarieplanken/  
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=anne-marietetedanslesnuages&color=BF5B04&style=for-the-badge)
+
+
 
 
 
